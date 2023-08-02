@@ -1,5 +1,5 @@
 # TODO-LIST
-![Cover](.src/Cover.jpg)
+![cover](./src/cover.jpg)
 
 # 專案目標
 實作一個備忘錄來當作前端入門的練習
