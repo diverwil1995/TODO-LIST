@@ -1,5 +1,5 @@
 # TODO-LIST
-![](https://hackmd.io/_uploads/rkFD7cvjh.png)
+![Cover](.src/Cover.jpg)
 
 # 專案目標
 實作一個備忘錄來當作前端入門的練習
